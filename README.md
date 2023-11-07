@@ -1,5 +1,5 @@
 # Responsive Watches Website
-## [Watch it on youtube](https://youtu.be/0GT6yF3r10Q)
+## [Watch it on youtube]([https://youtu.be/0GT6yF3r10Q](https://www.youtube.com/watch?v=DVKY7aB9Cgw&ab_channel=LearnwithDaniel))
 ### Responsive Watches Website
 
 - Responsive Watches Website Design Using HTML CSS & JavaScript
